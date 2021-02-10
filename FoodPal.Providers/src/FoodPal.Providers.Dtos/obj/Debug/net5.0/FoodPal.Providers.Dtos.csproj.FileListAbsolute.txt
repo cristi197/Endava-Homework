@@ -1,0 +1,15 @@
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\bin\Debug\net5.0\FoodPal.Providers.Dtos.deps.json
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\bin\Debug\net5.0\FoodPal.Providers.Dtos.dll
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\bin\Debug\net5.0\ref\FoodPal.Providers.Dtos.dll
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\bin\Debug\net5.0\FoodPal.Providers.Dtos.pdb
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\bin\Debug\net5.0\FoodPal.Providers.DomainModel.dll
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\bin\Debug\net5.0\FoodPal.Providers.DomainModel.pdb
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\obj\Debug\net5.0\FoodPal.Providers.Dtos.csprojAssemblyReference.cache
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\obj\Debug\net5.0\FoodPal.Providers.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\obj\Debug\net5.0\FoodPal.Providers.Dtos.AssemblyInfoInputs.cache
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\obj\Debug\net5.0\FoodPal.Providers.Dtos.AssemblyInfo.cs
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\obj\Debug\net5.0\FoodPal.Providers.Dtos.csproj.CoreCompileInputs.cache
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\obj\Debug\net5.0\FoodPal.Providers.Dtos.csproj.CopyComplete
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\obj\Debug\net5.0\FoodPal.Providers.Dtos.dll
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\obj\Debug\net5.0\ref\FoodPal.Providers.Dtos.dll
+D:\Git\EndavaHomework\FoodPal.Providers\src\FoodPal.Providers.Dtos\obj\Debug\net5.0\FoodPal.Providers.Dtos.pdb

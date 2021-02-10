@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.Dtos\\FoodPal.Providers.Dtos.csproj": {}
+  },
+  "projects": {
+    "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.DomainModel\\FoodPal.Providers.DomainModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.DomainModel\\FoodPal.Providers.DomainModel.csproj",
+        "projectName": "FoodPal.Providers.DomainModel",
+        "projectPath": "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.DomainModel\\FoodPal.Providers.DomainModel.csproj",
+        "packagesPath": "C:\\Users\\Cristi\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.DomainModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cristi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.Dtos\\FoodPal.Providers.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.Dtos\\FoodPal.Providers.Dtos.csproj",
+        "projectName": "FoodPal.Providers.Dtos",
+        "projectPath": "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.Dtos\\FoodPal.Providers.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Cristi\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cristi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.DomainModel\\FoodPal.Providers.DomainModel.csproj": {
+                "projectPath": "D:\\Git\\EndavaHomework\\FoodPal.Providers\\src\\FoodPal.Providers.DomainModel\\FoodPal.Providers.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
